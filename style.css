@@ -1,0 +1,36 @@
+.container {
+    height: 220px;
+    width: 400px;
+    background-color: white;
+    border: 2px solid lightgray;
+    position: absolute;
+    top:50px;
+    left: 25%;
+    font-size: 80%;
+}
+
+.backC {
+    height: 40px;
+    background-color:powderblue;
+}
+
+#content {
+    max-width:100%;
+}
+
+.bottonB {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    color:dodgerblue;
+    text-decoration: underline;
+    position: 
+}
+
+.gear {
+    margin-right: 10px;
+}
+
+.top {
+    background-color:powderblue;
+}
